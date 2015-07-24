@@ -1,0 +1,6 @@
+require 'bbva_cucumber_statistics/configuration'
+require 'bbva_cucumber_statistics/step_statistics'
+require 'bbva_cucumber_statistics/overall_statistics'
+require 'bbva_cucumber_statistics/unused_steps'
+require 'bbva_cucumber_statistics/formatter'
+require 'bbva_cucumber_statistics/renderer'
